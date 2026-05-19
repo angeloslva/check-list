@@ -5,4 +5,5 @@
 - A página foi desenhada para ser visualmente limpa no navegador, mas se transforma em uma folha de checklist perfeita, sem elementos desnecessários (como botões ou barras de navegação).
 
 # Tecnologias Utilizadas
-- HTML5: Estruturação semântica da tabela e dos itens de verificação.CSS3: Estilização base, layout responsivo.
+- HTML5: Estruturação semântica da tabela e dos itens de verificação.
+- CSS3: Estilização base, layout responsivo.
