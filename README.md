@@ -9,3 +9,5 @@
 - CSS3: Estilização base, layout responsivo.
 
 - Texto alterado via github.
+
+- alterando texto do README para testar comando e enviar para projeto local atraves do CMD.
