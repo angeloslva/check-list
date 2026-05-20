@@ -7,3 +7,5 @@
 # Tecnologias Utilizadas
 - HTML5: Estruturação semântica da tabela e dos itens de verificação.
 - CSS3: Estilização base, layout responsivo.
+
+- Texto alterado via github.
